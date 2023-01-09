@@ -35,7 +35,7 @@
     "mermaid": "8.9.3",
     "moment": "^2.29.1",
     "vue-eslint-parser": "^7.6.0",
-    "vuepress": "^1.8.2",
+    "vuepress": "^1.9.8",
     "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-plugin-container": "^2.1.5",
     "vuepress-plugin-element-tabs": "^0.2.8",
